@@ -1,2 +1,4 @@
 # Telecom-Churn-Case-Study
-Telecom company's customer data is given and customer churn is predicted against various variables. Important variables are screened using techniques like PCA and SMOTE is used for handling class imbalance 
+Telecom company's customer data is given and customer churn is predicted against various variables. Important variables are screened using techniques like PCA and SMOTE is used for handling class imbalance. 
+Data dictionary is given which helps to understand short forms of the variables. 6,7,8,9 stands for June, July, August and September respectively. Both predictive and interpretable models are built. Class imbalance is handled by various techniques like Bootstrap class weighing, random undersampling and SMOTE (Synthetic Minority Oversampling Technique). SMOTE proves to be the best one.
+Furthur, interpretable model is built so that we can understand which variables are most significant while deciding house price as PCA greatly reduces model interpretibility. Inferences are listed down at the end of notebook.
